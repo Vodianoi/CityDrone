@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: fb48e07370d8c254cab1f4ad73e05ea5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bareeer
+    100002: cadre
+    100004: door
+    100006: garage
+    100008: garagedoor
+    100010: grass
+    100012: main
+    100014: path
+    100016: //RootNode
+    100018: pillier
+    100020: portail
+    100022: Poto
+    100024: roof
+    100026: window
+    400000: bareeer
+    400002: cadre
+    400004: door
+    400006: garage
+    400008: garagedoor
+    400010: grass
+    400012: main
+    400014: path
+    400016: //RootNode
+    400018: pillier
+    400020: portail
+    400022: Poto
+    400024: roof
+    400026: window
+    2100000: wire_229166215
+    2100002: wire_205205205
+    2100004: wire_068036015
+    2100006: wire_002000024
+    2100008: wire_000000000
+    2100010: wire_228184153
+    2100012: wire_088177027
+    2100014: wire_115115115
+    2100016: wire_008008008
+    2100018: wire_032021008
+    2300000: bareeer
+    2300002: cadre
+    2300004: door
+    2300006: garage
+    2300008: garagedoor
+    2300010: grass
+    2300012: main
+    2300014: path
+    2300016: pillier
+    2300018: portail
+    2300020: Poto
+    2300022: roof
+    2300024: window
+    3300000: bareeer
+    3300002: cadre
+    3300004: door
+    3300006: garage
+    3300008: garagedoor
+    3300010: grass
+    3300012: main
+    3300014: path
+    3300016: pillier
+    3300018: portail
+    3300020: Poto
+    3300022: roof
+    3300024: window
+    4300000: bareeer
+    4300002: cadre
+    4300004: door
+    4300006: garage
+    4300008: garagedoor
+    4300010: grass
+    4300012: main
+    4300014: path
+    4300016: pillier
+    4300018: portail
+    4300020: Poto
+    4300022: roof
+    4300024: window
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
