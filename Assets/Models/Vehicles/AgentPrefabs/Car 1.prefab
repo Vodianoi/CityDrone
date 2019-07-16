@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 1169774781712649339}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.7091, y: 0.052741, z: 0.68028}
-  m_LocalScale: {x: 0.8742, y: 0.8742, z: 2.4676695}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5435542258831694305}
   - {fileID: 8311359359173160484}
@@ -54,11 +54,11 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1169774781712649339}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.1541916, y: 1.3264667, z: 0.96139336}
-  m_Center: {x: -0.031230005, y: -0.037774276, z: 0.03278754}
+  m_Size: {x: 17.905165, y: 16.541515, z: 46.50327}
+  m_Center: {x: -8.406716, y: 1.1156263, z: -7.6086564}
 --- !u!23 &1182855072396924417
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -173,8 +173,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2884892084861670812}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.11887121, y: 0.18885, z: 0.858}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -8.9, y: 3.45, z: 16.85}
+  m_LocalScale: {x: 44.396, y: 44.396, z: 44.396}
   m_Children: []
   m_Father: {fileID: 1166617311702774377}
   m_RootOrder: 0
@@ -236,15 +236,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400012, guid: d1305e970123f1043bec7ea9431f06b0, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.03347501
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400012, guid: d1305e970123f1043bec7ea9431f06b0, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.09576876
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400012, guid: d1305e970123f1043bec7ea9431f06b0, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.11173601
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d1305e970123f1043bec7ea9431f06b0, type: 3}

@@ -100,6 +100,8 @@ namespace Kawaiiju.Traffic
 		{
 			if(TrafficSystem.Instance.drawGizmos)
 			{
+                if (phases.Length == 0)
+                    return;
 				Phase phase = phases[m_CurrentPhase];
 				foreach(WaitZone zone in phase.positiveZones)
 				{	
